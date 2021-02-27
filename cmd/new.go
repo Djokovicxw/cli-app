@@ -40,5 +40,3 @@ func init() {
 	rootCmd.AddCommand(newCmd)
 
 }
-
-

@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"main/todo"
+	"cli-todo/todo"
 
 	"github.com/spf13/cobra"
 )

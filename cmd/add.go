@@ -16,8 +16,8 @@ limitations under the License.
 package cmd
 
 import (
+	"cli-todo/todo"
 	"fmt"
-	"main/todo"
 
 	"github.com/spf13/cobra"
 )
